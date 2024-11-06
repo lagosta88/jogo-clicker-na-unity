@@ -1,2 +1,2 @@
-# jogo-usando-godot
-jogo usando a engine godot criado para estudos
+# jogo-clicker-usando-unty
+jogo usando a engine unity criado para estudos
